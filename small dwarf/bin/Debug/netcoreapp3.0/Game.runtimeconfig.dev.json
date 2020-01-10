@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\matb3\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\matb3\\.nuget\\packages"
+    ]
+  }
+}
